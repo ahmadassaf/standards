@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "globals": { 
+    "browser": true,
+    "chrome": true,
+    "require": true
+  },
+  "esversion": 6,
+  "quotmark": "single",
+  "-W138": true,
+  "expr": true
+}
